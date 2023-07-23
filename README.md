@@ -23,8 +23,6 @@ Armazena os arquivos de mídia como imagens, fontes, ícones, etc
 
 ### `/src`
 
-Armazena o núcleo da aplicação
-
 `components`: Contém os componentes atômicos, que são de ordem mais simples. Exmeplos: botões, inputs, ícones, títulos, tags, etc.
 
 `pattern`: São os componentes moleculares, que são compostos por grupos de componentes atômicos para formar elementos reutilizáveis mais complexos. Exemplos: cards, itens de lista, boxes, etc.
