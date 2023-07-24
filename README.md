@@ -1,8 +1,6 @@
 # Estrutura para projetos NextJS (Beta)
 
-```
-O projeto ainda está em Beta, não recomendo que usem esse template por enquanto, pois preciso saber se tá confiável. Mas aproveita pra se jogar na documentação e me ajudar com sugestões, pelo menos algo você vai aprender por aqui :)
-```
+> O projeto ainda está em Beta, não recomendo que usem esse template por enquanto, pois preciso saber se tá confiável. Mas aproveita pra se jogar na documentação e me ajudar com sugestões, pelo menos algo você vai aprender por aqui :)
 
 Esse template foi montado e pensado baseado no conteúdo de **João Bibiano**, **Junior Alves** e **RocketSeat** sobre a organização e arquitetura de pastas para projetos em **React** ou **Next**, unido aos conceitos de **Atomic Design**.
 
